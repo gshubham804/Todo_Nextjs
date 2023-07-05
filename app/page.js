@@ -1,9 +1,9 @@
-import Login from "./Login";
+import Todo from "./Todo";
 
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-    <Login/>
+   <Todo/>
     </main>
   )
 }
